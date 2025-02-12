@@ -43,7 +43,7 @@ if st.session_state["selected_page"] == "Home page":
                     """
                 - **Data**: Displays both inbuilt and uploaded datasets.
                 - **Predict**: Displays customer churn status and prediction probability.
-                - **Dashboard**: Shows interactive data visualizations for quick insights.
+                - **Dashboard**: Shows interactive data visualizations for quick insghts.
                 - **History**: Shows past predictions.
                     """
                     )
